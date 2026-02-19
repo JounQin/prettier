@@ -32,7 +32,7 @@
     "bin"
   ],
   "dependencies": {
-    "@angular/compiler": "19.2.8",
+    "@angular/compiler": "19.2.18",
     "@babel/code-frame": "7.27.1",
     "@babel/parser": "7.27.2",
     "@babel/types": "7.27.1",
@@ -52,7 +52,7 @@
     "collapse-white-space": "1.0.6",
     "css-units-list": "2.1.0",
     "dashify": "2.0.0",
-    "diff": "8.0.1",
+    "diff": "8.0.3",
     "editorconfig": "0.15.3",
     "emoji-regex": "10.4.0",
     "escape-string-regexp": "5.0.0",
