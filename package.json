@@ -32,7 +32,7 @@
     "bin"
   ],
   "dependencies": {
-    "@angular/compiler": "19.2.8",
+    "@angular/compiler": "19.2.20",
     "@babel/code-frame": "7.27.1",
     "@babel/parser": "7.27.2",
     "@babel/types": "7.27.1",
@@ -52,7 +52,7 @@
     "collapse-white-space": "1.0.6",
     "css-units-list": "2.1.0",
     "dashify": "2.0.0",
-    "diff": "8.0.1",
+    "diff": "8.0.3",
     "editorconfig": "0.15.3",
     "emoji-regex": "10.4.0",
     "escape-string-regexp": "5.0.0",
@@ -95,7 +95,7 @@
     "remark-parse": "8.0.3",
     "sdbm": "2.0.0",
     "search-closest": "1.1.0",
-    "smol-toml": "1.3.4",
+    "smol-toml": "1.6.1",
     "strip-ansi": "7.1.0",
     "to-fast-properties": "4.0.0",
     "trim-newlines": "5.0.0",
@@ -105,7 +105,7 @@
     "url-or-path": "2.6.1",
     "vnopts": "2.0.2",
     "wcwidth.js": "2.0.0",
-    "yaml": "1.10.2",
+    "yaml": "1.10.3",
     "yaml-unist-parser": "2.0.5"
   },
   "devDependencies": {
@@ -151,7 +151,7 @@
     "pretty-bytes": "7.0.0",
     "rollup-plugin-license": "3.6.0",
     "semver": "7.7.2",
-    "serialize-javascript": "6.0.2",
+    "serialize-javascript": "7.0.5",
     "snapshot-diff": "0.10.0",
     "tempy": "3.1.0",
     "tinybench": "4.0.1",
